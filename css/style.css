@@ -99,9 +99,8 @@ header {
     background-color: lightgray;
 }
 
-.bg-aqua {
-    background-color: aqua;
-    border: 1px dashed black;
+.bg-black {
+    background-color: black;
 }
 
 .bg-lightcoral {
