@@ -41,6 +41,14 @@ header {
     width: 80%;
 }
 
+.col-50 {
+    width: 50%;
+}
+
+.col-40 {
+    width: 40%;
+}
+
 .col-60 {
     width: 60%;
 }
@@ -51,8 +59,8 @@ header {
 }
 
 /* MARGIN */
-.mrg-30 {
-    margin: 30px;
+.mrg-10 {
+    margin: 10px 0;
 }
 
 
@@ -63,6 +71,10 @@ header {
 
 .ht-250 {
     height: 250px;
+}
+
+.ht-500 {
+    height: 500px;
 }
 
 
@@ -79,9 +91,8 @@ header {
     border: 1px dashed black;
 }
 
-.lbg-ightgray {
+.bg-lightgray {
     background-color: lightgray;
-    border: 1px dashed black;
 }
 
 .bg-aqua {
