@@ -6,3 +6,39 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+header {
+    background-color: lightblue;
+}
+
+.container {
+    padding: 15px;
+    display: flex;
+    max-width: 990px;
+    margin: 0px auto;
+}
+
+
+/* COLUMNS */
+.col-20 {
+    width: 20%;
+    border: 1px dashed black;
+}
+
+.col-60 {
+    width: 60%;
+    border: 1px dashed black;
+}
+
+
+/* HEIGHT */
+.ht-40 {
+    height: 40px;
+}
+
+
+/* COLORS */
+.orange {
+    background-color: orange;
+    text-align: center;
+    line-height: 40px;
+}
