@@ -58,6 +58,10 @@ header {
 
 }
 
+.col-15 {
+    width: 15%;
+}
+
 /* MARGIN */
 .mrg-10 {
     margin: 10px 0;
@@ -110,7 +114,7 @@ header {
     border: 1px dashed black;
 }
 
-.bg-lightgreen {
+.bg-greenyellow {
     background-color: greenyellow;
     border: 1px dashed black;
 }
