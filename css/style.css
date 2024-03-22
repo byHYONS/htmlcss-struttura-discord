@@ -68,7 +68,11 @@ header {
     width: 15%;
 }
 
-/* MARGIN */
+/* MARGIN & PADDING*/
+.py-10 {
+    padding: 10px 0;
+}
+
 .mrg-10 {
     margin: 10px 0;
 }
