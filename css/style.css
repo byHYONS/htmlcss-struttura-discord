@@ -100,13 +100,41 @@ header {
     height: 500px;
 }
 
+/* LOGO */
+.logo {
+    font-size: 18px;
+    text-align: center;
+    line-height: 2;
+}
+
+/* LOGIN */
+.login {
+    font-size: 15px;
+    text-align: center;
+    line-height: 2.5;
+}
+
+/* LINK MENÙ */
+.menu ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu li {
+    padding: 5px 10px;
+    list-style-type: none;
+}
 
 /* COLORS */
 .bg-orange {
     background-color: orange;
     border: 1px dashed black;
-    text-align: center;
-    line-height: 40px;
 }
 
 .bg-pink {
